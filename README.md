@@ -12,6 +12,6 @@
   java -jar MyProject.jar
 ```
 
-**How to do:** Executar o comando na pasta onde o .jar for extraído.
+**Execução:** Executar o comando na pasta onde o .jar for extraído.
 
 
