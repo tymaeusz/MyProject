@@ -6,7 +6,7 @@
 
 **Executável:** [@MyProject](https://github.com/tymaeusz/MyProject/releases/download/Teste/MyProject.zip)
 
-**Comando**
+**Comando:**
 
 ```shell
   java -jar MyProject.jar
